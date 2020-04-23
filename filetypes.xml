@@ -5,6 +5,7 @@
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-2" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-TMP" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-in-vm" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
